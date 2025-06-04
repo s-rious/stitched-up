@@ -8,9 +8,20 @@ Serious' Life Project
 
 **Version ALPHA 1.0.0**
 
-Stitched Up is a game developed with the primary focus on Silis, a 16 year old boy who is venturing into finding out who he is and the mental struggle that follows. Silis, unbeknownst to him, is suffering from severe depression and anxiety, which later transitions into a diagnosis that causes a further spiral. Silis is a kid who primarily focuses on himself, staying away from any problems no matter the cost.  These problems, whether at school, home, or with his friends, always get pushed away by his own mental struggle to learn from them, but instead decides the best way to deal with them is to simply act like they don’t exist. This is what causes the initial suspicion of Silis having some form of a mental illness, as he pushes away self deprecating, suicidal, and harmful thoughts and decides suppression is t
-the best way to overcome them. As the game progresses, the player is forced with difficult decisions, typically not given a simple answer or an option that is obvious in its sensitical decisions, much like Silis not able to properly process these decisions and make critical thinking decisions. 
+Stitched Up is a narrative-driven psychological game centered around Silis, a 16-year-old boy caught in the quiet chaos of his own mind. At its core, the game is about identity, avoidance, and emotional deterioration, told through surreal, dreamlike sequences and emotionally driven choices.
 
+Silis doesn’t realize it at first, but he is suffering from severe depression and anxiety—a condition that only deepens as the story unfolds, eventually leading to a formal diagnosis that sends him into a further spiral. Silis isn’t a hero, nor is he reckless—he’s simply someone trying to stay afloat. His default coping mechanism is avoidance: he stays out of trouble, avoids emotional confrontation, and pretends the hardest parts of life simply don’t exist.
+
+This avoidance manifests everywhere:
+– In his home, where pain and grief go unspoken.
+– At school, where friendships slip through his fingers.
+– Inside his own head, where intrusive thoughts are buried under layers of denial.
+
+Rather than confront or understand his thoughts—many of them self-deprecating, self-harming, or even suicidal—Silis chooses suppression. It’s not ignorance. It’s fear, exhaustion, and the belief that numbing himself is safer than feeling anything at all.
+
+As the player takes control of Silis’s journey, they’re placed in similarly ambiguous, difficult decisions. There are no clearly “right” or “wrong” answers—only reflective mirrors of Silis’s fractured mind. Much like Silis himself, the player is often forced to navigate without clear logic, making emotional, instinctive choices rather than ones grounded in critical thinking. This design reinforces Silis’s internal conflict: the game doesn’t just tell his story—it immerses the player in his disorientation, fear, and longing for clarity.
+
+“Stitched Up” doesn’t offer easy answers because Silis doesn’t have any. And maybe that’s the point.
 
 Developed by Cameron Rydwell
 
